@@ -10,7 +10,7 @@ body
    background-image: url("Save_the_date.jpeg");
   background-repeat: no-repeat;
  background-attachment: scroll;
-  background-size: cover;
+  background-size: contain;
 
 
 
